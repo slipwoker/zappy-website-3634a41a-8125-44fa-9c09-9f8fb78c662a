@@ -6406,10 +6406,10 @@ main.page-container.ecommerce-page,
   text-transform: uppercase;
 }
 .status-pending { background: #fef3c7; color: #92400e; }
-.status-paid { background: #d1fae5; color: #065f46; }
+.status-paid { background: #6161FF; color: #000000; }
 .status-processing { background: #dbeafe; color: #1e40af; }
 .status-shipped { background: #e0e7ff; color: #3730a3; }
-.status-delivered { background: #d1fae5; color: #065f46; }
+.status-delivered { background: #6161FF; color: #000000; }
 .status-cancelled { background: #fee2e2; color: #991b1b; }
 .order-info-row {
   display: flex;
@@ -6644,7 +6644,7 @@ main.page-container.ecommerce-page,
 }
 .order-success-container { max-width: 600px; margin: 0 auto; text-align: center; }
 .order-success-icon { margin-bottom: 24px; }
-.order-success-icon svg { color: #10b981; stroke: #10b981; }
+.order-success-icon svg { color: #000000; stroke: #000000; }
 .order-success-section h1 { font-size: 2.5rem; color: var(--text-dark); margin-bottom: 8px; }
 .order-success-subtitle { font-size: 1.25rem; color: var(--text-muted); margin-bottom: 32px; }
 .order-number-box {
@@ -6762,7 +6762,7 @@ main.page-container.ecommerce-page,
   color: var(--text-dark);
 }
 .product-info .product-stock { display: flex; align-items: center; gap: 8px; font-weight: 500; }
-.product-info .product-stock.in-stock { color: #10b981; }
+.product-info .product-stock.in-stock { color: #000000; }
 .product-info .product-stock.out-of-stock { color: #ef4444; }
 .product-info .product-stock.low-stock { color: #f59e0b; }
 .product-stock svg {
@@ -7013,8 +7013,8 @@ main.page-container.ecommerce-page,
   margin-top: 12px;
 }
 .coupon-badge {
-  background: #d1fae5;
-  color: #065f46;
+  background: #6161FF;
+  color: #000000;
   padding: 4px 12px;
   border-radius: 20px;
   font-size: 0.85rem;
@@ -8776,7 +8776,7 @@ main,
   color: var(--text-dark) !important; 
 }
 .shipping-free-note { 
-  color: #10b981 !important; 
+  color: #000000 !important; 
   font-size: 12px !important; 
   margin-top: 4px !important; 
   font-weight: 500 !important; 
@@ -8788,7 +8788,7 @@ main,
   white-space: nowrap !important; 
 }
 .shipping-price.free { 
-  color: #10b981 !important; 
+  color: #000000 !important; 
 }
 .no-shipping, #shipping-methods .error { 
   text-align: center !important; 
@@ -9396,6 +9396,12 @@ body.accessibility-widget-visible ._access-menu {
     display: none !important;
   }
 }
+
+
+
+
+
+
 
 
 
