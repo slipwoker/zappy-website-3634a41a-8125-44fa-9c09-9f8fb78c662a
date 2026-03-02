@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו אלפי תמונות סטוק יהודיות וסרטוני חגים מקצועיים. פלטפורמה ישראלית מובילה לתוכן ויזואלי יהודי איכותי ליוצרים, משווקים ועסקים. התחילו עכשיו!
+
+### שוק
+https://example.com/marketplace
+קנו ומכרו תמונות וסרטונים יהודיים מקצועיים בשוק הדיגיטלי המוביל. מגוון עצום של תוכן סטוק לחגים, מסורת ותרבות יהודית. גלו את האוסף המלא!
+
+### ליוצרים
+https://example.com/creators
+צלמים ויוצרי וידאו, מכרו תמונות וסרטונים יהודיים בפלטפורמה הישראלית המובילה. עמלות הוגנות, תשלומים מהירים וקהל יעד ממוקד. הצטרפו למשפחת היוצרים!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות או צריכים סיוע? צוות ארט יהודי כאן בשבילכם. פנו אלינו לכל נושא - תמיכה טכנית, שאלות מכירה או שיתופי פעולה עסקיים. נשמח לעזור!
+
+### Products
+https://example.com/products
+המוצרים שלנו - ארט יהודי
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ארט יהודי
+
+### Category
+https://example.com/category/:slug
+מוצרים - ארט יהודי
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
